@@ -6,16 +6,7 @@ Enables helpful colorization of command line output
 $ git config --global user.email "[email address]"
 Sets the email you want attached to your commit transactions
 $ git config --global user.name "[name]"
-Sets the name you want attached to your commit transactions
-$ git clone [url]
-Clone (download) a repository that already exists on
-GitHub, including all of the files, branches, and commits
-Create repositories
-When starting out with a new repository, you only need to do it
-once; either locally, then push to GitHub, or by cloning an
-existing repository.
-$ git init
-Turn an existing directory into a git repository
+
 $ git pull
 Updates your current local working branch with all new
 commits from the corresponding remote branch on GitHub.
